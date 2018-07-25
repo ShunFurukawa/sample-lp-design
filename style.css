@@ -22,10 +22,11 @@ body {
 ====================== */
 
 div#header {
-  height: 1151px;
+  height: 900px;
   background-image: url("./images/header_background.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center center;
 }
 
 .header_logo {
@@ -48,6 +49,10 @@ div#header {
   font-size: 28px;
   font-weight: bold;
   text-align: center;
-  padding-top: 280px;
+  padding-top: 180px;
   text-shadow:2px 2px 11px #fff;
+}
+
+.banner {
+  width: 100%;
 }
