@@ -8,3 +8,11 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-color: #ccc;
+  font-size: 100%;
+  font-family: "MS ゴシック",san-sans-serif;
+  line-height: 1.5;
+  color: #333;
+}
