@@ -17,6 +17,10 @@ body {
   color: #333;
 }
 
+img {
+  vertical-align: bottom;
+}
+
 /* ====================
   ヘッダ
 ====================== */
@@ -86,4 +90,16 @@ div#header {
   width: auto;
   height: 24px;
   padding-right: 10px;
+}
+
+
+#info_detail {
+  background-color: #ffedc2;
+}
+
+.info_detail_box {
+  width: 600px;
+  background-color: #fff;
+  margin: auto;
+  margin-bottom: 40px;
 }
