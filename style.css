@@ -10,9 +10,44 @@
 }
 
 body {
-  background-color: #ccc;
+  background-color: #fff;
   font-size: 100%;
   font-family: "MS ゴシック",san-sans-serif;
   line-height: 1.5;
   color: #333;
+}
+
+/* ====================
+  ヘッダ
+====================== */
+
+div#header {
+  height: 1151px;
+  background-image: url("./images/header_background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header_logo {
+  width: 200px;
+  padding-top: 60px;
+}
+
+.header_content {
+  text-align: right;
+  padding-right: 80px;
+}
+
+.sub_discription {
+  font-size: 28px;
+  font-weight: lighter;
+  padding-top: 150px;
+}
+
+.center_header_text {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 280px;
+  text-shadow:2px 2px 11px #fff;
 }
