@@ -99,7 +99,37 @@ div#header {
 
 .info_detail_box {
   width: 600px;
+  height: 350px;
   background-color: #fff;
   margin: auto;
   margin-bottom: 40px;
+  position: relative;
 }
+
+.info_detail_img {
+  width: 300px;
+  height: 350px;
+  position: absolute;
+}
+
+.info_detail_text_right {
+  position: absolute;
+  left: 300px;
+}
+
+.info_detail_text_left {
+  position: absolute;
+  width: 300px;
+}
+
+.info_detail_img_right {
+  left: 300px;
+  position: absolute;
+}
+
+
+/* .clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+} */
