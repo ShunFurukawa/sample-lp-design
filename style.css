@@ -127,6 +127,28 @@ div#header {
   position: absolute;
 }
 
+.small_title {
+  color: #ffcb4b;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.small_title_check {
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.detail_discription_bgcolor {
+  background-color: #ffcb4b;
+}
+
+.detail_discription {
+  font-size: 11px;
+  color: #fff;
+  background-color: #ffcb4b;
+  padding: 10px 10px 10px 10px;
+}
 
 /* .clearfix:after {
   content: "";
