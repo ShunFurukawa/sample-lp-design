@@ -177,3 +177,33 @@ div#header {
   font-size: 24px;
   font-weight: bold;
 }
+
+
+/* ==================
+  お客様の声
+===================== */
+
+div#customers_voice {
+  width: 600px;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.customers_voice_content {
+  text-align: left;
+  font-size: 14px;
+}
+
+.customers_voice_content_title {
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 15px;
+}
+
+.customers_voice_image {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+}
