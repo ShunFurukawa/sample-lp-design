@@ -207,3 +207,35 @@ div#customers_voice {
   height: 100px;
   margin: 20px;
 }
+
+
+/* ==================
+  性能
+===================== */
+
+.performance {
+  text-align: center;
+}
+
+.performance_image {
+  width: 100%;
+}
+
+.service_announce {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+/* ====================
+  フッタ
+====================== */
+
+div#footer {
+  text-align: center;
+  background-color: #ffcb4b;
+}
+
+.footer_logo {
+  width: 100px;
+}
