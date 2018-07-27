@@ -21,6 +21,14 @@ img {
   vertical-align: bottom;
 }
 
+.divider {
+  border: solid 1px;
+}
+
+.margin {
+  margin-top: 50px;
+}
+
 /* ====================
   ヘッダ
 ====================== */
@@ -156,3 +164,16 @@ div#header {
   display: block;
   clear: both;
 } */
+
+.info_margin {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+  margin-top: 70px;
+}
+
+.info_center_text {
+  color: #666;
+  font-size: 24px;
+  font-weight: bold;
+}
