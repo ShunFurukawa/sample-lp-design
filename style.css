@@ -141,13 +141,14 @@ div#header {
 
 .detail_discription_bgcolor {
   background-color: #ffcb4b;
+  height: 175px;
 }
 
 .detail_discription {
   font-size: 11px;
   color: #fff;
-  background-color: #ffcb4b;
-  padding: 10px 10px 10px 10px;
+  /* background-color: #ffcb4b; */
+  padding: 20px;
 }
 
 /* .clearfix:after {
