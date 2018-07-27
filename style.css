@@ -40,7 +40,7 @@ div#header {
 
 .header_content {
   text-align: right;
-  padding-right: 80px;
+  padding: 0px 80px;
 }
 
 .sub_discription {
